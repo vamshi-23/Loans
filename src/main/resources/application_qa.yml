@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EasyBank loans related qa APIs "
+  contactDetails:
+    name: "Dimba oay - QA Lead"
+    email: "dimba@easybank.com"
+  onCallSupport:
+    - (333) 343-1234
+    - (333) 098-1345
